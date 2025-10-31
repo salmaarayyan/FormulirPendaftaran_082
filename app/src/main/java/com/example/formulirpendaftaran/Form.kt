@@ -109,6 +109,8 @@ fun FormulirPendaftaran(modifier: Modifier = Modifier) {
                         Text(item)
                     }
                 }
+
+                Spacer(modifier = Modifier.height(16.dp))
             }
         }
 
